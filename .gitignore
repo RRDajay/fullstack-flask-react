@@ -1,0 +1,8 @@
+# vscode
+.vscode 
+
+# python
+venv
+__pycache__
+# javascript
+node_modules
