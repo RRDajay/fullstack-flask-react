@@ -1,0 +1,1 @@
+Boilerplate for fullstack web apps using flask and react.
